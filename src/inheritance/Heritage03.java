@@ -1,4 +1,4 @@
-package heritages;
+package inheritance;
 
 public class Heritage03 {
 
